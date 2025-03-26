@@ -1,0 +1,75 @@
+header{
+    color: white;
+    background-color: #001f55;
+    text-align: center;
+    
+}
+body{
+    background-color: #53BAFA;
+    text-align: justify;
+    margin: 50px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+    h2{
+        color:white;
+        text-align: left;
+        font-size: 33px;
+    }
+
+.cabecalho{
+        img{
+            width: 50%;
+        }
+        text-align: center;
+        blockquote{
+            text-align: left;
+            color:black;
+            font-size: 25px;
+        }
+    }
+
+    h3{
+        color:white;
+        font-size: 25px;
+    }
+p{
+    text-align: left;
+    color:black;
+    font-size: 25px;
+}
+.Dev{
+    h3{
+        text-align: left;
+        color:black;
+    }
+    img{
+        width:15%;
+    }
+}
+
+.service{
+    blockquote{
+        font-size: 25px;
+    }
+}
+.Dev{
+    display:flex;
+    flex-wrap: wrap;
+}
+.Dev div{
+    border: 10px solid #53BAFA;
+    width: 500px;
+}
+
+a {
+    text-decoration: none; /* Remove sublinhado dos links */
+    color: #001f55;
+
+}
+img{
+    width: 800px;
+    margin: 30px;
+    margin-left: 200px;
+}
